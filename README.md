@@ -1,6 +1,6 @@
 <div align="center">
 <div align="center">
-  <img src="download%20(2).jpg" alt="Medwin Gardose" width="150" style="border-radius:50%;" />
+  <img src="download%20(2).jpg" alt="Medwin Gardose" style="border-radius:50%;" />
 </div>
 <h1>Hi, I'm Medwin 👋</h1>
 
