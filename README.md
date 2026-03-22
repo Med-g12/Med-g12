@@ -47,7 +47,7 @@ I’m a web developer and designer who builds modern, responsive, and user-focus
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Med-g12&show_icons=true&theme=tokyonight&count_private=true" />
-
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Med-g12&layout=compact&theme=tokyonight" />
 
 </div>
@@ -62,17 +62,7 @@ I’m a web developer and designer who builds modern, responsive, and user-focus
 
 ---
 
-<div align="center">
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Med-g12)  
 ![Followers](https://img.shields.io/github/followers/Med-g12?style=social)  
 ![Coffee Badge](https://img.shields.io/badge/coffee-ready%20to%20code-yellow)  
 
-</div>
-
----
-
-## 🎮 Fun & Interactive
-
-- **🎲 Random Joke:** [Click me](https://github.com/15Dkatz/official_joke_api)  
-- **🌐 Explore GitHub Projects:** [Random Repo](https://github.com/Med-g12?tab=repositories)  
