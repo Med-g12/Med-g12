@@ -1,8 +1,9 @@
+<p align="center">
 # Hi, I'm Medwin 👋
 
 💻 Web Developer & 🎨 Designer
 📍 Philippines
-
+</p>
 ---
 
 ## 🚀 About Me
@@ -13,18 +14,18 @@ I’m a web developer and designer who builds modern, responsive, and user-focus
 
 ## 🛠️ Tech Stack
 
-* 🎨 Design: Figma
-* 💻 Frontend: Vue.js, React, Tailwind CSS
-* ⚙️ Backend: Laravel
-* 🐍 Programming: Python
+* Design: Figma
+* Frontend: Vue.js, React, Tailwind CSS
+* Backend: Laravel
+* Programming: Python
 
 ---
 
 ## 📌 Projects
 
-* 🔹 Web Applications (Vue / React + Tailwind)
-* 🔹 Full-Stack Projects (Laravel + Frontend)
-* 🔹 UI/UX Designs (Figma)
+* Web Applications (Vue / React + Tailwind)
+* Full-Stack Projects (Laravel + Frontend)
+* UI/UX Designs (Figma)
 
 ---
 
