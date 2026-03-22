@@ -1,6 +1,6 @@
 <div align="center">
   <div align="center">
-    <img src="download%20(2).jpg" alt="Medwin Gardose" style="border-radius:50%; width:150px; transition: transform 0.3s ease; animation: float 3s ease-in-out infinite;" />
+    <img src="download%20(2).jpg" alt="Medwin Gardose" style="border-radius:50%; transition: transform 0.3s ease; animation: float 3s ease-in-out infinite;" />
   </div>
 
   <h1 style="animation: fadeIn 2s;">Hi, I'm Medwin 👋</h1>
@@ -54,14 +54,12 @@ onmouseout="this.style.transform='scale(1)'" />
 - Email: mdwn5621@gmail.com
 
 <style>
-/* Float animation for avatar */
 @keyframes float {
   0% { transform: translateY(0px); }
   50% { transform: translateY(-10px); }
   100% { transform: translateY(0px); }
 }
 
-/* Fade-in animation for text/images */
 @keyframes fadeIn {
   from { opacity: 0; }
   to { opacity: 1; }
