@@ -21,17 +21,12 @@ I’m a web developer and designer who builds modern, responsive, and user-focus
 
 ---
 
-<div align="center">
+## Projects
 
-## 🛠️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,figma,vue,react,tailwind,laravel,python" />
-
-<br>
-<img src="https://media.giphy.com/media/3o7TKtdh78Rb9MLySY/giphy.gif" alt="Bounce Arrow" width="50" />
-
-</div>
-
+- **Web Applications** (Vue / React + Tailwind)  
+- **Full-Stack Projects** (Laravel + Frontend)  
+- **UI/UX Designs** (Figma)
+  
 ---
 
 <div align="center">
@@ -46,11 +41,16 @@ I’m a web developer and designer who builds modern, responsive, and user-focus
 
 ---
 
-## Projects
+<div align="center">
 
-- **Web Applications** (Vue / React + Tailwind)  
-- **Full-Stack Projects** (Laravel + Frontend)  
-- **UI/UX Designs** (Figma)  
+## 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,figma,vue,react,tailwind,laravel,python" />
+
+<br>
+<img src="https://media.giphy.com/media/3o7TKtdh78Rb9MLySY/giphy.gif" alt="Bounce Arrow" width="50" />
+
+</div>
 
 ---
 
