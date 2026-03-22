@@ -2,14 +2,14 @@
 
 <h1>Hi, I'm Medwin 👋</h1>
 
-<p>💻 Web Developer & 🎨 Designer</p>
-<p>📍 Philippines</p>
+<p>Web Developer & Designer</p>
+<p>Philippines</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m a web developer and designer who builds modern, responsive, and user-focused applications. I enjoy turning ideas into clean and functional digital experiences using both frontend and backend technologies.
 
@@ -19,13 +19,13 @@ I’m a web developer and designer who builds modern, responsive, and user-focus
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=figma,vue,react,tailwind,laravel,python" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,figma,vue,react,tailwind,laravel,python" />
 
 </div>
 
 ---
 
-## 📌 Projects
+## Projects
 
 - Web Applications (Vue / React + Tailwind)  
 - Full-Stack Projects (Laravel + Frontend)  
@@ -35,7 +35,7 @@ I’m a web developer and designer who builds modern, responsive, and user-focus
 
 <div align="center">
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Med-g12&show_icons=true&theme=tokyonight" />
 
