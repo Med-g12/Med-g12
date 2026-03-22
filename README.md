@@ -34,14 +34,6 @@ I’m a web developer and designer who builds modern, responsive, and user-focus
 
 ---
 
-## Projects
-
-- **Web Applications** (Vue / React + Tailwind)  
-- **Full-Stack Projects** (Laravel + Frontend)  
-- **UI/UX Designs** (Figma)  
-
----
-
 <div align="center">
 
 ## GitHub Stats
@@ -51,6 +43,14 @@ I’m a web developer and designer who builds modern, responsive, and user-focus
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Med-g12&layout=compact&theme=tokyonight" />
 
 </div>
+
+---
+
+## Projects
+
+- **Web Applications** (Vue / React + Tailwind)  
+- **Full-Stack Projects** (Laravel + Frontend)  
+- **UI/UX Designs** (Figma)  
 
 ---
 
@@ -64,5 +64,3 @@ I’m a web developer and designer who builds modern, responsive, and user-focus
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Med-g12)  
 ![Followers](https://img.shields.io/github/followers/Med-g12?style=social)  
-![Coffee Badge](https://img.shields.io/badge/coffee-ready%20to%20code-yellow)  
-
