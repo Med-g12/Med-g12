@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="https://your-image-url.com/profile.jpg" alt="Medwin Gardose" width="150" style="border-radius:50%;" />
 <h1>Hi, I'm Medwin 👋</h1>
 
 <p>💻 Web Developer & 🎨 Designer | 📍 Philippines</p>
