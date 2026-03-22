@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/SleepyCatHey/CozyPixels/blob/main/Catppuccin/Anime%20%26%20Gaming/pixel-napping.png" alt="Medwin Gardose" width="" style="border-radius:50%;" />
+  
 <h1>Hi, I'm Medwin 👋</h1>
 
 <p>💻 Web Developer & 🎨 Designer | 📍 Philippines</p>
@@ -45,3 +45,7 @@ I’m a web developer and designer who builds modern, responsive, and user-focus
 ## 📫 Contact
 
 - Email: mdwn5621@gmail.com
+
+<div>
+<img src="https://github.com/SleepyCatHey/CozyPixels/blob/main/Catppuccin/Anime%20%26%20Gaming/pixel-napping.png" alt="Medwin Gardose" width="" style="border-radius:50%;" />
+</div>
