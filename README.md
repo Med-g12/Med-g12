@@ -31,11 +31,12 @@ I’m a web developer and designer who builds modern, responsive, and user-focus
 
 <div align="center">
 
-## GitHub Stats
+## 🛠️ Tech Stack
 
-<img src="https://github-readme-stats.vercel.app/api?username=Med-g12&show_icons=true&theme=tokyonight&count_private=true" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,figma,vue,react,tailwind,laravel,python" />
+
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Med-g12&layout=compact&theme=tokyonight" />
+<img src="https://media.giphy.com/media/3o7TKtdh78Rb9MLySY/giphy.gif" alt="Bounce Arrow" width="50" />
 
 </div>
 
@@ -43,12 +44,11 @@ I’m a web developer and designer who builds modern, responsive, and user-focus
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## GitHub Stats
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,figma,vue,react,tailwind,laravel,python" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=Med-g12&show_icons=true&theme=tokyonight&count_private=true" />
 <br>
-<img src="https://media.giphy.com/media/3o7TKtdh78Rb9MLySY/giphy.gif" alt="Bounce Arrow" width="50" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Med-g12&layout=compact&theme=tokyonight" />
 
 </div>
 
