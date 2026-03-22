@@ -2,8 +2,7 @@
 
 <h1>Hi, I'm Medwin 👋</h1>
 
-<p>Web Developer & Designer</p>
-<p>Philippines</p>
+<p>Web Developer & Designer • Philippines</p>
 
 </div>
 
