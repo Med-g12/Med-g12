@@ -1,19 +1,17 @@
 <div align="center">
 <div align="center"> <img src="download%20(2).jpg" alt="Medwin Gardose" style="border-radius:50%;" /> </div>
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Medwin Gardose" width="150" style="border-radius:50%;" />
 
 <h1>Hi, I'm Medwin 👋</h1>
 <p>💻 Web Developer & 🎨 Designer | 📍 Philippines</p>
-
-
-<img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" alt="Coding Fun" width="200" />
 
 </div>
 
 ---
 
 ## About Me
-
+<div align="center">
+<img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" alt="Coding Fun" width="200" />
+</div>
 I’m a web developer and designer who builds modern, responsive, and user-focused applications. I enjoy turning ideas into clean and functional digital experiences using both frontend and backend technologies.  
 
 💡 **Fun fact:** I love turning coffee ☕ into code 💻  
