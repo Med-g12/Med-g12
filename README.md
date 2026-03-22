@@ -1,9 +1,12 @@
-<p align="center">
-# Hi, I'm Medwin 👋
+<div align="center">
 
-💻 Web Developer & 🎨 Designer
-📍 Philippines
-</p>
+<h1>Hi, I'm Medwin 👋</h1>
+
+<p>💻 Web Developer & 🎨 Designer</p>
+<p>📍 Philippines</p>
+
+</div>
+
 ---
 
 ## 🚀 About Me
@@ -12,29 +15,34 @@ I’m a web developer and designer who builds modern, responsive, and user-focus
 
 ---
 
+<div align="center">
+
 ## 🛠️ Tech Stack
 
-* Design: Figma
-* Frontend: Vue.js, React, Tailwind CSS
-* Backend: Laravel
-* Programming: Python
+<img src="https://skillicons.dev/icons?i=figma,vue,react,tailwind,laravel,python" />
+
+</div>
 
 ---
 
 ## 📌 Projects
 
-* Web Applications (Vue / React + Tailwind)
-* Full-Stack Projects (Laravel + Frontend)
-* UI/UX Designs (Figma)
+- Web Applications (Vue / React + Tailwind)  
+- Full-Stack Projects (Laravel + Frontend)  
+- UI/UX Designs (Figma)  
 
 ---
 
+<div align="center">
+
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME\&show_icons=true\&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Med-g12&show_icons=true&theme=tokyonight" />
+
+</div>
 
 ---
 
 ## 📫 Contact
 
-* Email: mdwn5621@gmail.com
+- Email: mdwn5621@gmail.com
