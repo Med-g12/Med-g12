@@ -15,9 +15,7 @@
   <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" alt="Coding Fun" width="200" />
 </div>
 
-I’m a web developer and designer who builds modern, responsive, and user-focused applications. I enjoy turning ideas into clean and functional digital experiences using both frontend and backend technologies.  
-
-💡 **Fun fact:** I love turning coffee ☕ into code 💻  
+I’m a web developer and designer who builds modern, responsive, and user-focused applications. I enjoy turning ideas into clean and functional digital experiences using both frontend and backend technologies.    
 
 ---
 
