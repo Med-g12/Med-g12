@@ -31,7 +31,7 @@ I’m a web developer and designer who builds modern, responsive, and user-focus
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,figma,vue,react,tailwind,laravel,python" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,figma,vue,react,tailwind,laravel,python,nuxt" />
 
 <br>
 <img src="https://media.giphy.com/media/3o7TKtdh78Rb9MLySY/giphy.gif" alt="Bounce Arrow" width="50" />
