@@ -33,7 +33,7 @@ Portfolio: https://mdwn-portfolio.vercel.app/
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,figma,vue,react,tailwind,laravel,python,nuxt" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,figma,vue,react,tailwind,laravel,python,nuxt,next,supabase" />
 
 <br>
 <img src="https://media.giphy.com/media/3o7TKtdh78Rb9MLySY/giphy.gif" alt="Bounce Arrow" width="50" />
